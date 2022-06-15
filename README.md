@@ -1,24 +1,23 @@
-<h2 align="center">
-     Hi there 👋 
-</h2>
 
-<p align="center">
-    Welcome to my page! I’m a recent bootcamp grad, trying to find my place. Join me on my journey! <br>
-    ✨ I’m currently working on making my idea's come to life with code. <br>
-    🧠 I’m learning from the coolest teachers at Le Wagon MX! <br>
-    🌞 Pronouns: She/Her
-</p>
-
-
-<h2 align="center">
-    Recent Projects 👩🏾‍💻
-</h2>
-<ul align="center" >
-  <li>🗺 http://www.xplorerz.net/</li>
-  <li>🖼 https://rent-a-painting.herokuapp.com/</li>
-</ul>
-
+#   Hi there 👋 
 ---
+
+    Welcome to my page! I’m a recent bootcamp grad, trying to find my place. Join me on my journey!
+    
+    
+   - ✨ I’m currently working on making my idea's come to life with code. 
+   - 🧠 I’m learning from the coolest teachers at Le Wagon MX! 
+   - 🌞 Pronouns: She/Her
+
+
+
+
+##   Recent Projects 👩🏾‍💻
+---
+  - 🗺 http://www.xplorerz.net/
+  - 🖼 https://rent-a-painting.herokuapp.com/
+
+
 
 <details>
   <summary><b>Where to find me</b></summary>
@@ -47,9 +46,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
-<img align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mberhe23)
-</img>
+
 
 <!--
 **mberhe23/mberhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
