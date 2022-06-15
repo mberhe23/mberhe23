@@ -1,23 +1,29 @@
 <h1 align="center">
-    // Hi there 👋
+     Hi there 👋 
 </h1>
 
 <p align="center">
-    // - ✨ I’m currently working on making my idea's come to life with code.
-       - 🧠 I’m learning from the coolest teachers at Le Wagon MX!
-       - 🌞 Pronouns: She/Her
+    Welcome to my page! I’m a recent bootcamp grad, trying to find my place. Join me on my journey! <br>
+    ✨ I’m currently working on making my idea's come to life with code. <br>
+    🧠 I’m learning from the coolest teachers at Le Wagon MX! <br>
+    🌞 Pronouns: She/Her
+</p>
+
+<h1 align="center">
+    🎧 Now playing 🎧
+</h1>
+<p align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-<details>
-  <summary><b>Projects</b></summary>
-- 🗺 http://www.xplorerz.net/
-- 🖼 https://rent-a-painting.herokuapp.com/
-
-
-</details>
+<h1 align="center">
+    Recent Projects 👩🏾‍💻
+</h1>
+<ul align="center">
+  <li>🗺 http://www.xplorerz.net/</li>
+  <li>🖼 https://rent-a-painting.herokuapp.com/</li>
+</ul>
 
 <details>
   <summary><b>Where to find me</b></summary>
