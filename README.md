@@ -18,6 +18,9 @@
   <li>🖼 https://rent-a-painting.herokuapp.com/</li>
 </ul>
 
+---
+---
+
 <details>
   <summary><b>Where to find me</b></summary>
 
@@ -46,6 +49,7 @@
 
 </details>
 
+https://github-readme-streak-stats.herokuapp.com/?user={mberhe23}
 
 
 <!--
