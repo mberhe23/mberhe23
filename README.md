@@ -48,7 +48,7 @@
 
 </details>
 
-https://github-readme-streak-stats.herokuapp.com/?user=mberhe23
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mberhe23)
 
 
 <!--
