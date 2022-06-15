@@ -12,10 +12,9 @@
 <h1 align="center">
     🎧 Now playing 🎧
 </h1>
-<p align="center">
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</p>
-
+</div>
 
 <h1 align="center">
     Recent Projects 👩🏾‍💻
