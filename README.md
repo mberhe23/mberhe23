@@ -34,7 +34,7 @@
 
 </details>
 
-<details>
+<div>
   <summary><b>OS & Tools</b></summary>
 
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -49,7 +49,7 @@
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</details>
+</div>
 
 <!--
 **mberhe23/mberhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
