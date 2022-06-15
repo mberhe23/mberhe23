@@ -47,9 +47,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
-
+<img align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mberhe23)
-
+</img>
 
 <!--
 **mberhe23/mberhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
