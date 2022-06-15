@@ -18,7 +18,7 @@
 <h2 align="center">
     Recent Projects 👩🏾‍💻
 </h2>
-<ul align="center">
+<ul align="center" style="list-style-type:none;">
   <li>🗺 http://www.xplorerz.net/</li>
   <li>🖼 https://rent-a-painting.herokuapp.com/</li>
 </ul>
