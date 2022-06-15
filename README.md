@@ -9,15 +9,15 @@
     🌞 Pronouns: She/Her
 </p>
 
-<h3 align="center">
+<h2 align="center">
     🎧 Now playing 🎧
-</h3>
+</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<h3 align="center">
+<h2 align="center">
     Recent Projects 👩🏾‍💻
-</h3>
+</h2>
 <ul align="center">
   <li>🗺 http://www.xplorerz.net/</li>
   <li>🖼 https://rent-a-painting.herokuapp.com/</li>
