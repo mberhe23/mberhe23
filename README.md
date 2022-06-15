@@ -4,6 +4,7 @@
 - 🧠 I’m learning from the coolest teachers at Le Wagon MX!
 - 🌞 Pronouns: She/Her
 
+🎧 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <details>
   <summary><b>Projects</b></summary>
@@ -21,7 +22,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mberhe23)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://maryanberhe@gmail.com)
 [![CV](https://img.shields.io/badge/-CV-112988?style=for-the-badge&logo=CV&logoColor=white)](https://github.com/mberhe23/mberhe23/files/8911219/MaryanBerhe.-.CV.pdf)
-
 
 </details>
 
