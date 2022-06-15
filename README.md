@@ -1,8 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+    // Hi there 👋
+</h1>
 
-- ✨ I’m currently working on making my idea's come to life with code.
-- 🧠 I’m learning from the coolest teachers at Le Wagon MX!
-- 🌞 Pronouns: She/Her
+<p align="center">
+    // - ✨ I’m currently working on making my idea's come to life with code.
+       - 🧠 I’m learning from the coolest teachers at Le Wagon MX!
+       - 🌞 Pronouns: She/Her
+</p>
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
