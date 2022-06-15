@@ -1,6 +1,5 @@
 
 #   Hi there 👋 
----
 
     Welcome to my page! I’m a recent bootcamp grad, trying to find my place. Join me on my journey!
     
@@ -13,7 +12,7 @@
 
 
 ##   Recent Projects 👩🏾‍💻
----
+
   - 🗺 http://www.xplorerz.net/
   - 🖼 https://rent-a-painting.herokuapp.com/
 
