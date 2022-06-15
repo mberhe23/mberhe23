@@ -9,16 +9,11 @@
     🌞 Pronouns: She/Her
 </p>
 
-<h2 align="center">
-  🎧 Now playing 🎧
-</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h2 align="center">
     Recent Projects 👩🏾‍💻
 </h2>
-<ul align="center" style="list-style-type:none;">
+<ul align="center" >
   <li>🗺 http://www.xplorerz.net/</li>
   <li>🖼 https://rent-a-painting.herokuapp.com/</li>
 </ul>
@@ -44,7 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=Django&style=for-the-badge&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&style=for-the-badge&logoColor=white)
 ![Ruby_on_rails](https://img.shields.io/badge/-Ruby_on_rails-CC0000?logo=Flask&style=for-the-badge&logoColor=white)
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
