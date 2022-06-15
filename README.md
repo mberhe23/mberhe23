@@ -7,6 +7,9 @@
 
 <details>
   <summary><b>Projects</b></summary>
+  [![Xplorerz](https://img.shields.io/badge/-Xplorerz-112988?style=for-the-badge&logo=Xplorerz&logoColor=white)](https://maryanberhe@gmail.com)
+  [![Rent_A_Painting](https://img.shields.io/badge/-Rent_A_Painting-112988?style=for-the-badge&logo=Rent_A_Painting&logoColor=white)](https://maryanberhe@gmail.com)
+
   - 🗺 http://www.xplorerz.net/
   - 🖼 https://rent-a-painting.herokuapp.com/
 
