@@ -40,7 +40,7 @@
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&style=for-the-badge&logoColor=white)
-![Ruby_on_rails](https://img.shields.io/badge/-Ruby_on_rails-CC0000?logo=Ruby_on_rails&style=for-the-badge&logoColor=white)
+![Ruby_on_rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
