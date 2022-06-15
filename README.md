@@ -19,7 +19,6 @@
 </ul>
 
 ---
----
 
 <details>
   <summary><b>Where to find me</b></summary>
@@ -49,7 +48,7 @@
 
 </details>
 
-https://github-readme-streak-stats.herokuapp.com/?user={mberhe23}
+https://github-readme-streak-stats.herokuapp.com/?user={username}
 
 
 <!--
