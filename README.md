@@ -9,9 +9,9 @@
     🌞 Pronouns: She/Her
 </p>
 
-<h2 align="center">
-    🎧 Now playing 🎧
-</h2>
+|  <h2 align="center">: |
+|  🎧 Now playing 🎧: |
+|  </h2>: |
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1210163147&cover_image=true&theme=novatorem&bar_color=65b762&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -34,7 +34,7 @@
 
 </details>
 
-<div>
+<details>
   <summary><b>OS & Tools</b></summary>
 
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -49,7 +49,9 @@
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+</details>
+
+
 
 <!--
 **mberhe23/mberhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
