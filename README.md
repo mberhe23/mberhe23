@@ -9,19 +9,11 @@
    - 🌞 Pronouns: She/Her
 
 
-
-
-##   Recent Projects 👩🏾‍💻
-
-| Recent Projects 👩🏾‍💻                             | 
+| Recent Projects 👩🏾‍💻                             |    
 | ---------------------------------------------- |
 | 🗺 http://www.xplorerz.net/                    | 
 | 🖼 https://rent-a-painting.herokuapp.com/      | 
   
-
-  - 🗺 http://www.xplorerz.net/
-  - 🖼 https://rent-a-painting.herokuapp.com/
-
 
 
 <details>
