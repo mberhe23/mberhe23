@@ -1,5 +1,5 @@
 
-#   Hi there 👋 
+#  👋 Hi there! I'm Maryan. 
 
     Welcome to my page! I’m a recent bootcamp grad, trying to find my place. Join me on my journey!
     
