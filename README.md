@@ -1,4 +1,4 @@
-
+<!--
 #  👋 Hi there! I'm Maryan. 
 
     Welcome to my page! I’m a recent bootcamp grad, trying to find my place. Join me on my journey!
@@ -49,7 +49,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mberhe23)
 
 
-<!--
+
 **mberhe23/mberhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
